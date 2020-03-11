@@ -6,10 +6,9 @@
 //  Copyright © 2020 Dong-Hak Kim. All rights reserved.
 //
 
-#include <iostream>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+#include<iostream>
+using namespace std;
+int main(){
+    cout << "this.is my first file."<<'\n';
     return 0;
 }
